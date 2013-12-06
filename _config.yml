@@ -1,24 +1,27 @@
-title:            Site Title
-description:      Describe your website here.
+encoding:         UTF-8
+
+title:            I Love Nougat!!!
+description:      Big on chocolate!  Not on fat.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Mitch Pronschinske
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  #100 Characters Max for Bio
+  bio:            "God this site looks so FUCKING AWESOME doesn't it?  Holy shit."
+  email:          mpronschinske@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        twitter.com/mpron
+  ##facebook:       www.facebook.com/mpronschinske
+  github:         github.com/mpron
+  ##stackexchange:  http://stackoverflow.com/users/969363/mpron
+  linkedin:       www.linkedin.com/pub/mitchell-pronschinske/12/841/b07/
+  ##instagram:      
+  ##flickr:         
+  ##tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   
 
@@ -36,9 +39,8 @@ bing_verify:
 links:
   - title: Theme Setup
     url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+  - title: SoundtrackShare.io
+    url: http://soundtrackshare.herokuapp.com
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
