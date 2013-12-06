@@ -6,8 +6,8 @@ modified:
 tags: [Windows, Jekyll, Ruby]
 image:
   feature: castlewater.jpg
-  credit: 
-  creditlink: 
+  credit: Frédéric Bazille
+  creditlink: https://images.nga.gov/en/asset/show_zoom_window_popup.html?asset=55194&location=grid&asset_list=77764,77730,76466,68588,68124,67331,67307,66306,65879,58917,58901,58618,57395,56412,56403,56400,56200,55195,55194,49508,47771,47749,47246,47244,46483,46470,46349,46348,46347,46345,46344,45806,45797,45788,45785,45758,45749,45723,45260,45259,45220,45096,45092,45091,45056,43436,38534,19790,19781&basket_item_id=undefined
 comments: true
 share: true
 ---
@@ -20,77 +20,3 @@ So here's how the setup process went for me as I tried to build this new blog.
 
 #Jekyll Windows Setup and Theme Cloning
 ______________
-
-This is me.  How do I look in my spiffy shirt and tie.  I think the tie clip adds a nice touch.  Don't worry.  There's nothing important about that all-white clock in the background.  It's just background.  Anyway, enough about me.
-
-![Mitch Pronschinske]({{ site.url }}/avatar.jpg)
-{: .pull-left}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Pygments
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>

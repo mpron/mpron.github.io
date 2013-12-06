@@ -1,35 +1,35 @@
 encoding:         UTF-8
 
-title:            I Love Nougat!!!
-description:      Big on chocolate!  Not on fat.
-disqus_shortname: 
+title:            Laserfish
+description:      "Mitch Pronschinske's blog on code, music, sports, anime, and whatever other topics he feels the need to write about."
+disqus_shortname: mpron
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              
+url:              mpron.github.io
 
 # Owner/author information
 owner:
   name:           Mitch Pronschinske
   avatar:         avatar.jpg
   #100 Characters Max for Bio
-  bio:            "God this site looks so FUCKING AWESOME doesn't it?  Holy shit."
+  bio:            "A newly formed web developer and a longtime blogger in the programming world. Plays the accordion."
   email:          mpronschinske@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        twitter.com/mpron
-  ##facebook:       www.facebook.com/mpronschinske
-  github:         github.com/mpron
-  ##stackexchange:  http://stackoverflow.com/users/969363/mpron
-  linkedin:       www.linkedin.com/pub/mitchell-pronschinske/12/841/b07/
-  ##instagram:      
-  ##flickr:         
-  ##tumblr:         
+  twitter:        mpron
+  facebook:       
+  github:         mpron
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  google_plus:   https://plus.google.com/110479971096226902843/about
 
 # Background image to be tiled on all pages
-background: ps_neutral.png
+background: witewall_3.png
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-46256122-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -37,8 +37,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
   - title: SoundtrackShare.io
     url: http://soundtrackshare.herokuapp.com
 
@@ -52,7 +50,7 @@ markdown:    kramdown
 permalink:   /:categories/:title
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 4
 
 kramdown:
   auto_ids: true
