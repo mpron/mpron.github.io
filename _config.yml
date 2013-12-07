@@ -4,7 +4,7 @@ title:            Laserfish
 description:      "Mitch Pronschinske's blog on code, music, sports, anime, and whatever other topics he feels the need to write about."
 disqus_shortname: mpron
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              #http://mpron.github.io
+url:              http://mpron.github.io
 
 # Owner/author information
 owner:
