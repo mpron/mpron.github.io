@@ -57,12 +57,23 @@ I did want highlighting, so in order for this to work, you need to uninstall a t
 
 Here's what you should run in your command line to fix things:
 
-{% highlight shell %}
+{% highlight console %}
 gem list
-[displays a list of all your installed ruby gems with their version numbers in parentheses]
-gem uninstall pygments.rb --version "=[insert any pygments version number that was installed in the ruby gems list above 0.50]"
+[displays a list of all your installed ruby gems 
+with their version numbers in parentheses]
+gem uninstall pygments.rb --version "=[insert any pygments version number 
+that was installed in the ruby gems list above 0.50]"
 gem install pygments.rb --version "=0.5.0"
 {% endhighlight %}
+
+My gem list showed `pygments.rb (0.5.0, 0.5.4)` so I had to run `gem uninstall pygments.rb --version "=0.5.4"`
+
+_**Note** about using Syntax Highlighting:_
+_When you want to highlight a piece of code, make sure you use the proper highlighting syntax, or your site will not run or deploy.  An example code snippet in your blog post's markdown file will look like this:_
+
+![Syntax Highlighting]({{ site.url }}/images/highlights.jpg)
+
+_If you use a word after `highlight` that Pygments doesn't have a lexer (highlighter) for, then your site won't run.  To see all the lexers you can use, [visit this page](http://pygments.org/docs/lexers/) and do ctrl+F searches for the languages you want to highlight.  For this tutorial I used `highlight console`._
 
 Now, the last thing you need to do is go to your C:\ drive and open the RailsInstaller folder that should be there now. Then you have to go into the Ruby 1.9 or Ruby 2.0 folder, depending on which version you decided to get, and then finally open the `setup_environment.bat` file in your code editor. My path to the file looked like this:
 
@@ -82,7 +93,7 @@ Close and restart your command line window, navigate to the jekyll theme folder 
 
 Here's the second weird error I got:
 
-{% highlight shell %}
+{% highlight console %}
 Liquid Exception: incompatible character encodings: UTF-8 and IBM437 in _layouts/page.html
 {% endhighlight %}
 
@@ -92,7 +103,7 @@ Most of the searches I did pointed to methods that used this [chcp 65001](http:/
 
 If you take a look at [my comment](http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html#comment-1151046802) on the tutorial, I mention that another commenter on the post showed me the solution.  Just add the following line to your `_config.yml`, run `jekyll serve` again, and rejoice!
 
-{% highlight markdown %}
+{% highlight console %}
 encoding: UTF-8
 {% endhighlight %}
 
@@ -151,7 +162,7 @@ You can ignore the other fields and hit "Create Repository".  If you forked Mich
 
 If you didn't fork his repo, then just go to your Jekyll project in the command line and follow the instructions on the GitHub page that appears after you create the repository.  Typing those commands will allow you run through this process every time you want to deploy a modification to your site:
 
-{% highlight shell %}
+{% highlight console %}
 git add . 
 git add -u
 git commit -m "this is a description of what I changed"
@@ -167,3 +178,4 @@ If you connected your project folder to the [your username].github.io using the 
 To see your live blog, simply go to `[your GitHub username].github.io`.  See how it looks, make some more modificatons or create new posts locally, and then push them to GitHub and check that URL again.
 
 Enjoy your new blog, you badass!
+
