@@ -62,19 +62,20 @@ Sufism is a form of Islamic mysticism that doesn’t really focus on being dogma
 Zikr is a chanting/singing repetition of certain words or names of God that invokes a trancelike, peaceful state of mind. In addition to the video above, you should **absolutely** listen to [**this zikr chant**](http://grooveshark.com/#!/s/Zikr+Uyghur/ymclv?src=5) from a [Uyghur](http://en.wikipedia.org/wiki/Uyghur_people) (pronounced “Wee-gur”) order of mystics.
 
 # John Cage’s Post-Modern Compositions
-<iframe width="480" height="480" src="//www.youtube.com/embed/VdWS4g6Xv8k" frameborder="0"> </iframe>
+<iframe width="640" height="480" src="//www.youtube.com/embed/VdWS4g6Xv8k" frameborder="0"> </iframe>
 
 [John Cage](http://en.wikipedia.org/wiki/John_Cage) was an American composer that led the post-WWII avant-garde music movement. Musical critics have called him one of the most influential American composers of the 20th century with his innovation in electroacoustic music and non-standard instruments. However, some of his contributions were, what many would consider, idiotic.
 
-His most famous piece is a 1952 composition called [4′33"](http://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3), which is exactly, not joking here, **_four minutes thirty-three seconds of silence_**. The performers just sit there and do nothing for 4:33 minutes. You could play 4'33" yourself! In fact, you might be playing it right now.
+His most famous piece is a 1952 composition called [4′33"](http://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3), which is exactly, not joking here, **_four minutes and thirty-three seconds of silence_**. The performers just sit there and do nothing for 4:33 minutes. You could play 4'33" yourself! In fact, you might be playing it right now.
 
-The idea is that audience members should take that time to absorb and internalize the ambient sound of their space. It’s so meta that it makes my head want to explode! But at least it makes good fodder for jokes. “Hey, can we listen to some 4'33"; now?”
+The idea is that audience members should take that time to absorb and internalize the ambient sound of their space. It’s so meta that it makes my head want to explode! But at least it makes good fodder for jokes. "Hey, can we listen to some 4'33" now?"
 
-4'33"; aside, you should check out some of John Cage’s pieces where there is actual sound. You might find that some are pretty interesting.
+4'33" aside, you should check out some of John Cage’s pieces where there is actual sound. You might find that some are pretty interesting.
 
 # The 1-bit Symphony
 
 **Turn your sound way down** before you listen to this one. It starts out pretty loud.
+
 <iframe width="640" height="480" src="//www.youtube.com/embed/Yh6-X9Vs_vk" frameborder="0"> </iframe>
 
 Some of you might still love the 8-bit sound from old computers and video games, but let’s see how you handle 1-bit sound.
