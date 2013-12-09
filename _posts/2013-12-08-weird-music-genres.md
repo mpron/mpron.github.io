@@ -74,8 +74,8 @@ The idea is that audience members should take that time to absorb and internaliz
 
 # The 1-bit Symphony
 
-**Turn your sound way down **before you listen to this one. It starts out pretty loud.
-<iframe src="//player.vimeo.com/video/12244413" width="500" height="281" frameborder="0"> </iframe>
+**Turn your sound way down** before you listen to this one. It starts out pretty loud.
+<iframe width="640" height="480" src="//www.youtube.com/embed/Yh6-X9Vs_vk" frameborder="0"> </iframe>
 
 Some of you might still love the 8-bit sound from old computers and video games, but let’s see how you handle 1-bit sound.
 
