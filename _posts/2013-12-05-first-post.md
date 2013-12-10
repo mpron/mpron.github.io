@@ -71,7 +71,7 @@ My gem list showed `pygments.rb (0.5.0, 0.5.4)` so I had to run `gem uninstall p
 _**Note** about using Syntax Highlighting:_
 _When you want to highlight a piece of code, make sure you use the proper highlighting syntax, or your site will not run or deploy.  An example code snippet in your blog post's markdown file will look like this:_
 
-![Syntax Highlighting]({{ site.url }}/images/highlights.jpg)
+![Syntax Highlighting](http://i.imgur.com/rPmWTOi.jpg)
 
 _If you use a word after `highlight` that Pygments doesn't have a lexer (highlighter) for, then your site won't run.  To see all the lexers you can use, [visit this page](http://pygments.org/docs/lexers/) and do ctrl+F searches for the languages you want to highlight.  For this tutorial I used `highlight console`._
 
