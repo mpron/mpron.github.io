@@ -120,3 +120,9 @@ Is it a good thing that this is possible? I’m guessing most of you think it’
 Our brains can’t even process this many notes. It’s mostly filtered out as white noise. The only parts that you do hear are the moving parts. So in the end, I do think it’s kind of an interesting experience, but at this point I’m spent on the weird music. You can read [this article](http://rhizome.org/editorial/tags/impossible-music) if you’re interested in learning more about Black MIDI.
 
 I’ve got to go listen to some 4'33"
+
+#### Update!
+
+Looks like Cracked had this same great idea a month or so after I did and made this pretty entertaining video: [The 5 Most Surreal Music Genres Around the World](http://www.cracked.com/video_18703_the-5-most-surreal-music-genres-around-world.html)
+
+I need to go find some Throat Rap now...
