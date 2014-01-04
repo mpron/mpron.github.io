@@ -2,7 +2,7 @@
 layout: post
 title: Setting Up This Blog
 description: "My first post on a fresh new Jekyll blog.  Here's how I handled issues installing Jekyll on Windows and how I dealt with Pygments and encoding issues."
-modified:
+modified: 
 tags: [Windows, Jekyll, Ruby]
 image:
   feature: castlewater.jpg

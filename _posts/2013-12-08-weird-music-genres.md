@@ -2,7 +2,7 @@
 layout: post
 title: 13 Weird Musical Genres You Didn’t Know Existed
 description: "The strangest collection of musical styles you’ll ever listen to"
-modified:
+modified: 2013-12-19
 tags: [Music, Humor]
 image:
   feature: misty.jpg
