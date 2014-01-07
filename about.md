@@ -14,6 +14,8 @@ I am currently somewhat of a journalist for the software development beat. I oft
 
 Recently, I've completed a couple of development courses and subsequent projects to build foundational web development skills.  There's no shortage of things I'd like to create or new technologies I'd like to try out, so this blog is just the beginning of an upcoming string of projects.
 
+## [Resume]({{site.url}}/resume/)
+
 #### _Other social sites I didn't mention in my nav-box bio (to keep it lightweight)_
 
 * [**StackOverflow**](http://stackoverflow.com/users/969363/mpron)
