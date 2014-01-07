@@ -66,8 +66,8 @@ Bachelor of Arts, Double Major: Classics and Video Production
 - [Dev Tech That Will be HOT in 2014](http://java.dzone.com/articles/dev-tech-will-be-hot-2014)
 - [We Need a Programmer for President](http://architects.dzone.com/articles/would-you-vote-programmer)
 - [Setting Up This Blog](http://mpron.github.io/first-post/)
-- [Java EE Testing 'Gets Real'](http://java.dzone.com/articles/java-ee-testing-gets-real)
 - [DigitalOcean Growth Rate is Higher than AWS](http://css.dzone.com/articles/digitalocean-growth-rate)
+- [Java EE Testing 'Gets Real'](http://java.dzone.com/articles/java-ee-testing-gets-real)
 
   [1]: http://www.codeskulptor.org/#user10_vyJWLa6JWm_2.py
   [2]: http://www.codeskulptor.org/#user11_glIedd6pfq_35.py
