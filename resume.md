@@ -61,14 +61,6 @@ Bachelor of Arts, Double Major: Classics and Video Production
 
 [RPSLS][1], [Guess the number][2], [Stopwatch][3], [Pong][4], [Memory][5], [Blackjack][6], [Asteroids][7]
 
-### Writing Samples
-
-- [Dev Tech That Will be HOT in 2014](http://java.dzone.com/articles/dev-tech-will-be-hot-2014)
-- [We Need a Programmer for President](http://architects.dzone.com/articles/would-you-vote-programmer)
-- [Setting Up This Blog](http://mpron.github.io/first-post/)
-- [DigitalOcean Growth Rate is Higher than AWS](http://css.dzone.com/articles/digitalocean-growth-rate)
-- [Java EE Testing 'Gets Real'](http://java.dzone.com/articles/java-ee-testing-gets-real)
-
   [1]: http://www.codeskulptor.org/#user10_vyJWLa6JWm_2.py
   [2]: http://www.codeskulptor.org/#user11_glIedd6pfq_35.py
   [3]: http://www.codeskulptor.org/#user12_yZmMLnkGgq_6.py
@@ -76,3 +68,11 @@ Bachelor of Arts, Double Major: Classics and Video Production
   [5]: http://www.codeskulptor.org/#user14_AVMptadUgq_9.py
   [6]: http://www.codeskulptor.org/#user15_UJHfmN9dCz_16.py
   [7]: http://www.codeskulptor.org/#user16_kxUyG6o0Iz_18.py
+
+### Writing Samples
+
+- [Dev Tech That Will be HOT in 2014](http://java.dzone.com/articles/dev-tech-will-be-hot-2014)
+- [We Need a Programmer for President](http://architects.dzone.com/articles/would-you-vote-programmer)
+- [Setting Up This Blog](http://mpron.github.io/first-post/)
+- [DigitalOcean Growth Rate is Higher than AWS](http://css.dzone.com/articles/digitalocean-growth-rate)
+- [Java EE Testing 'Gets Real'](http://java.dzone.com/articles/java-ee-testing-gets-real)
