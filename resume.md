@@ -53,7 +53,7 @@ Bachelor of Arts, Double Major: Classics and Video Production
 
 ### Rails:  
 
-[SoundtrackShare](http://soundtrackshare.herokuapp.com)
+[SoundtrackShare.io](http://www.soundtrackshare.io)
 
 [Redditability](http://redditability.herokuapp.com)
 

@@ -22,4 +22,4 @@ Recently, I've completed a couple of development courses and subsequent projects
 * [**LinkedIn**](http://www.linkedin.com/in/mpron/)
 * [**Facebook**](https://www.facebook.com/mpronschinske)
 * [**Bloc Profile**](https://www.bloc.io/users/mitch-pronschinske)
-* [**SoundtrackShare.io**](http://soundtrackshare.herokuapp.com) _my final project for Bloc - a simple, beautiful soundtrack music discovery site_
+* [**SoundtrackShare.io**](http://www.soundtrackshare.io) _my final project for Bloc - a simple, beautiful soundtrack music discovery site_
