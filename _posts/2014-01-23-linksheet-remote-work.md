@@ -34,14 +34,14 @@ My first foray into this resource is going to be a soft topic: remote work.  Spe
 [**How We Use HipChat to Keep the (Distributed) UserVoice Team in Sync**](https://community.uservoice.com/blog/how-we-use-hipchat/) (2012) A really helpful piece that shows you some of the best ways to effectively use chatrooms during remote team collaboration.
 
 # Tools (My Picks)
-#### **[GitHub][1]** - Version control and issue tracking
-#### **[Jira][2]** - Issue tracking
-#### **[HipChat][3]** - Instant messaging chat rooms
-#### **[Skype][4], [Google Hangouts][5]** - Video calling
-#### **[Screenhero][6]** - Screen sharing with voice calls
-#### **[Asana][7]** - Lightweight project management
-#### **[Google Docs][8], [Dropbox][9]** - Shared documents and knowledge repositories
-#### **[Draft](https://draftin.com/)** - Shared documents with better version control visibility
+- **[GitHub][1]** - Version control and issue tracking
+- **[Jira][2]** - Issue tracking
+- **[HipChat][3]** - Instant messaging chat rooms
+- **[Skype][4], [Google Hangouts][5]** - Video calling
+- **[Screenhero][6]** - Screen sharing with voice calls
+- **[Asana][7]** - Lightweight project management
+- **[Google Docs][8], [Dropbox][9]** - Shared documents and knowledge repositories
+- **[Draft](https://draftin.com/)** - Shared documents with better version control visibility
 
 *Addendum* – Aaron Boodman's [setup description](http://aaron.boodman.usesthis.com/) on usethis.com has a few Unix-y tools that are popular in the developer community as well.  Usethis.com is a great site btw.
 
@@ -57,17 +57,12 @@ Pair programming is another big topic on its own, but it's an especially useful 
 
 # Companies That Embrace Remote Work
 | #### [**37signals**](http://37signals.com/) | #### [**GitHub**](https://github.com/about) |
-#### [**GitHub**](https://github.com/about)
-#### [**Etsy**](http://www.etsy.com/)
-#### [**Amazon**](http://www.businessinsider.com/amazon-engineer-lives-on-a-boat-and-works-from-hawaii-2013-2)
-#### [**WordPress** (Automattic)](http://automattic.com/)
-#### [**Buffer**](http://bufferapp.com/)
-#### [**Litmus**](http://litmus.com/)
-#### [**TeamSnap**](http://www.teamsnap.com/)
-#### [**VOALTE**](http://www.voalte.com/)
-#### [**Xerox**](http://www.xerox.com/)
-#### [**Dell**](http://www.dell.com/)
-#### and many more.  Too many to list here...
+| [**Etsy**](http://www.etsy.com/)
+| [**Amazon**](http://www.businessinsider.com/amazon-engineer-lives-on-a-boat-and-works-from-hawaii-2013-2)
+| [**WordPress** (Automattic)](http://automattic.com/) | [**Buffer**](http://bufferapp.com/) |
+| [**Litmus**](http://litmus.com/) | [**TeamSnap**](http://www.teamsnap.com/) |
+| [**VOALTE**](http://www.voalte.com/) | [**Xerox**](http://www.xerox.com/) |
+| [**Dell**](http://www.dell.com/) | and many more.  Too many to list here... |
 
 *Not* [Yahoo](http://allthingsd.com/20130222/yahoo-ceo-mayer-now-requiring-all-remote-employees-to-not-be-remote/)
 
