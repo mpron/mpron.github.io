@@ -16,7 +16,7 @@ This is the first installment of my **"Linksheets"** series.  It's a simple, yet
 My first foray into this resource is going to be a soft topic: remote work.  Specifically, working in remote software development teams.
 
 # Definitive Blogs on Working Remotely
-[**On Working Remotely**](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) (2010) by the great Jeff Atwood; founder of StackOverflow and author of the blog "Coding Horror."
+[**On Working Remotely**](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) (2010) by the great Jeff Atwood, the founder of StackOverflow and author of the blog "Coding Horror."
 
 [**30 Tips for Successful Communication as a Remote Worker**](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx) (2010) by the phenomenal Scott Hanselman, a star on the developer conference speaking circuit and creator of the [Hanselminutes podcast](http://www.hanselminutes.com/).
 
