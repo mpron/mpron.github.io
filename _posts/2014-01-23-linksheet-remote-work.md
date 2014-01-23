@@ -56,6 +56,7 @@ Pair programming is another big topic on its own, but it's an especially useful 
 [**How Remote Work Changed My Life**](http://justinjackson.ca/remote/) (2013) by Justin Jackson.  An insightful, personal account of how remote work had a hugely positive impact on one developer's life.
 
 # Companies That Embrace Remote Work
+| ---- | ---- |
 | [**37signals**](http://37signals.com/) | [**GitHub**](https://github.com/about) |
 | [**Etsy**](http://www.etsy.com/) | [**Amazon**](http://www.businessinsider.com/amazon-engineer-lives-on-a-boat-and-works-from-hawaii-2013-2) |
 | [**WordPress** (Automattic)](http://automattic.com/) | [**Buffer**](http://bufferapp.com/) |
