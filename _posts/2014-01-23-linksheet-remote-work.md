@@ -3,6 +3,7 @@ layout: post
 title: 'Linksheet: Remote Software Development'
 description: "Links to tips, tools, tutorials, and case studies for working successfuly in distributed remote software development teams."
 tags: [Linksheets, Version Control, Git, Productivity, Career]
+modified: 2014-01-24
 image:
   feature: satellite.jpg
   credit: NASA
@@ -22,6 +23,8 @@ My first foray into this resource is going to be a soft topic: remote work.  Spe
 
 [**How to Work Remotely**](http://markcampbell.me/tutorial/2013/05/23/how-to-work-remotely.html) (2013) by Mark Campbell. I know less about him, but he's a Ruby enthusiast and he has also written a very good article on remote work.
 [HN discussion](https://news.ycombinator.com/item?id=5757047)
+
+[**How to Work Remotely and Travel the World**](http://jake-jorgovan.com/blog/remote) (2014) by Jake Jorgovan. The lifestyle of this author is not as easily obtainable as he makes it seem, but it's an intriguing look at how you could work remotely while living a life of adventure.
 
 # Real-World Examples, Case Studies, and Tips
 
