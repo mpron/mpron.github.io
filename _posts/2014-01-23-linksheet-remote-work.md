@@ -3,7 +3,7 @@ layout: post
 title: 'Linksheet: Remote Software Development'
 description: "Links to tips, tools, tutorials, and case studies for working successfuly in distributed remote software development teams."
 tags: [Linksheets, Version Control, Git, Productivity, Career]
-modified: 2014-01-24
+modified: 2014-02-05
 image:
   feature: satellite.jpg
   credit: NASA
@@ -42,9 +42,10 @@ My first foray into this resource is going to be a soft topic: remote work.  Spe
 - **[HipChat][3]** - Instant messaging chat rooms
 - **[Skype][4], [Google Hangouts][5]** - Video calling
 - **[Screenhero][6]** - Screen sharing with voice calls
-- **[Asana][7]** - Lightweight project management
+- **[Asana][7]** - Lightweight task management
 - **[Google Docs][8], [Dropbox][9]** - Shared documents and knowledge repositories
 - **[Draft](https://draftin.com/)** - Shared documents with better version control visibility
+- **[Basecamp](https://basecamp.com/), [Flowdock](https://www.flowdock.com/), or [Slack](https://slack.com/)** - Team task management and resource sharing
 
 *Addendum* – Aaron Boodman's [setup description](http://aaron.boodman.usesthis.com/) on usethis.com has a few Unix-y tools that are popular in the developer community as well.  Usethis.com is a great site btw.
 
