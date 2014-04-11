@@ -37,7 +37,7 @@ Cary, NC, 10/2009 – Present
 - Interviewed, hired and trained content managers to understand the software development space.
 - Editorial liaison for sales and DZone customers.
 - Oversaw departmental doubling of unique visitors in one year.
-- Posted thousands self-authored entries generating millions of page views over the course of my career.
+- Posted thousands of self-authored entries generating millions of page views over the course of my career.
 
 
 # EDUCATION
