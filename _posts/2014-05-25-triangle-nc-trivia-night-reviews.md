@@ -14,8 +14,11 @@ With the number of bars around Durham, Raleigh, Chapel Hill, Cary, and Morrisvil
 
 # Doherty's Irish Pub
 1979 High House Rd
+
 Cary, NC 27519
+
 Phone number (919) 388-9930
+
 Starts at 8pm on **Mondays**
 
 **Host:**
