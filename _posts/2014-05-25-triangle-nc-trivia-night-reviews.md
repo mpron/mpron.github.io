@@ -46,9 +46,13 @@ Music questions happen mainly if the video isn't working, according to the host.
  - Maybe 20-25 people in the trivia area near the bar.
 
 # Steel String Brewery
+
 106 S Greensboro St
+
 Carrboro, NC 27510
+
 Phone number (919) 240-7215
+
 Starts at 9:15pm on **Tuesdays**
 
 **Host:** 
@@ -94,9 +98,13 @@ Starts at 9:15pm on **Tuesdays**
    no team to join or other people who came alone to team up with.
 
 # West End Tavern
+
 2734 N Carolina 55
+
 Cary, NC 27519
+
 Phone:(919) 303-9300
+
 Starts at 7pm **Wednesdays**
 
 **Host:**
@@ -122,10 +130,15 @@ Starts at 7pm **Wednesdays**
    places I went to to meet people my age.
 
 # Hibernian
+
 1144 Kildaire Farm Rd
+
 Cary, NC 27511
+
 Phone number (919) 467-9000
+
 Starts at 8pm on **Thursdays**
+
 
 **Host:**
 
@@ -162,9 +175,13 @@ Starts at 8pm on **Thursdays**
    could only hear in one side of the restaurant.
 
 # Natty Greene's Pub
+
 505 W Jones St.
+
 Raleigh, NC 27603
+
 Phone number (919) 232-2477
+
 Starts at 7:30pm **Tuesdays**
 
 **Host:** 
