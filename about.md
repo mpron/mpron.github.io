@@ -23,3 +23,4 @@ Recently, I've completed a couple of development courses and subsequent projects
 * [**Facebook**](https://www.facebook.com/mpronschinske)
 * [**Bloc Profile**](https://www.bloc.io/users/mitch-pronschinske)
 * [**SoundtrackShare.io**](http://www.soundtrackshare.io) _my final project for Bloc - a simple, beautiful soundtrack music discovery site_
+* [Rails Storefront](http://ror4storefront.herokuapp.com) _my version of the storefront app in the book "Agile Web Development with Rails 4"_
