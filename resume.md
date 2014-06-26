@@ -22,7 +22,7 @@ Online, 9/2013 – 12/2013
 - **Skills learned**: Ruby, Ruby on Rails, RSpec, Vagrant, Homebrew, SublimeText, Sass, HAML, Twitter Bootstrap, Responsive Design, Git, Bash, Heroku, HTML, CSS, JavaScript, jQuery, Facebook Authentication, Amazon S3 (Had prior experience with several subjects through Codecademy and Code School).
 - Completed projects in the portfolio section under "Rails."
 
-### Coursera Interactive Programming in Python, *Student*
+### Rice University via Coursera.org,  Interactive Programming in Python, *Student*
 Online, 4/2013 – 7/2013     
 
 - A three-month online course in Python game development from Rice University on Coursera.
@@ -32,7 +32,8 @@ Online, 4/2013 – 7/2013
 ### DZone, Inc., *Lead Analyst, Senior Editor*
 Cary, NC, 10/2009 – Present
 
-- Created and managed sponsored content that comprised the largest piece of revenue for the company.
+- Conducted research and produced the majority of content for DZone’s research guides. Now the largest revenue generator.
+- Generated and managed sponsored content portals in Drupal that comprised the largest piece of revenue for the company at the time.
 - Contacted and persuaded over 300 technology writers to join a blog republishing program that provided the bulk of content for DZone portals.
 - Interviewed, hired and trained content managers to understand the software development space.
 - Editorial liaison for sales and DZone customers.
@@ -44,7 +45,7 @@ Cary, NC, 10/2009 – Present
 
 ### University of North Carolina
 Chapel Hill, NC, 8/2005 - 12/2008
-Bachelor of Arts, Double Major: Classics and Video Production 
+B.A. Classics and Video Production 
 
 - Cumulative GPA: 3.6/4.0, Major GPA: 3.8/4.0 
 - Member of the Marching Tar Heels Band, Student Television, and The Daily Tar Heel Newspaper
