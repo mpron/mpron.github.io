@@ -11,7 +11,7 @@ Email: mpronschinske [at] gmail [dot] com
 
 # SUMMARY
 
-I've been geeking out on developer technologies since before I even knew how to code.    Over the past four years I've been immersed in the developer content space and now, with two development courses under my belt, I'm eager to begin coding full time.  
+I've been geeking out on developer technologies since before I even knew how to code. Over the past four years I've been immersed in the developer content space and now, with two development courses under my belt, I'm eager to begin coding full time.  
 
 # SKILLS / EXPERIENCE
 
