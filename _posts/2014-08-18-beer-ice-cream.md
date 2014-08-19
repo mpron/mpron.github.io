@@ -58,4 +58,8 @@ Sources: [America's Test Kitchen][1], [The Endless Meal][2]
 Oh, and check out all the insane ice cream recipes I've collected [on Pinterest](http://www.pinterest.com/mi0tch919/ice-cream-party/)
 
   [1]: http://www.americastestkitchenfeed.com/do-it-yourself/2012/08/homemade-beer-ice-cream/
+<<<<<<< HEAD
   [2]: http://www.theendlessmeal.com/beer-ice-cream/
+=======
+  [2]: http://www.theendlessmeal.com/beer-ice-cream/
+>>>>>>> fdaadc31a5ca64ae0e76cdaecd84edfa49408d24
