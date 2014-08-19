@@ -11,7 +11,7 @@ Email: mpronschinske [at] gmail [dot] com
 
 # SUMMARY
 
-I've been geeking out on developer technologies since before I even knew how to code. Over the past four years I've been immersed in the developer content space and now, with two development courses under my belt, I'm eager to begin coding full time.  
+I've been geeking out on developer technologies since before I even knew how to code.    Over the past four years I've been immersed in the developer content space and now, with two development courses under my belt, I'm eager to begin coding full time.  
 
 # SKILLS / EXPERIENCE
 
@@ -49,6 +49,8 @@ B.A. Classics and Video Production
 
 - Cumulative GPA: 3.6/4.0, Major GPA: 3.8/4.0 
 - Member of the Marching Tar Heels Band, Student Television, and The Daily Tar Heel Newspaper
+
+*Currently enrolled in the University of California at San Diego's Human-Computer Interaction course*
 
 # PORTFOLIO
 
