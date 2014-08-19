@@ -55,5 +55,7 @@ The only rule is that is has to be malty, not hoppy because hops get bitter when
 
 Sources: [America's Test Kitchen][1], [The Endless Meal][2]
 
+Oh, and check out all the insane ice cream recipes I've collected [on Pinterest](http://www.pinterest.com/mi0tch919/ice-cream-party/)
+
   [1]: http://www.americastestkitchenfeed.com/do-it-yourself/2012/08/homemade-beer-ice-cream/
   [2]: http://www.theendlessmeal.com/beer-ice-cream/
