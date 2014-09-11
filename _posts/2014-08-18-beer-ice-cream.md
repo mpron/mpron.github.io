@@ -16,8 +16,6 @@ Ever since I got an ice cream maker as a company bonus last Christmas, I've been
 
 Among all of the crazy recipies I've tried, including sweet potato, horchata, and sriracha, I think my most successful was beer flavored ice cream.  So I'd like to share my own take on this wonderful recipe which I modified from two existing recipes.  To be more specific, this is VANILLA PORTER ICE CREAM.
 
-![Vanilla Porter Ice Cream](http://imgur.com/PTBSk4u)
-
 ###Choosing the beer:
 The only rule is that is has to be malty, not hoppy because hops get bitter when cooked, and you will be reducing this a bit.
 
