@@ -19,8 +19,8 @@ I've been geeking out on developer technologies since before I even knew how to 
 Online, 9/2013 – 12/2013
 
 - A three-month online bootcamp to learn Ruby on Rails full-stack web development.
-- **Skills learned**: Ruby, Ruby on Rails, RSpec, Vagrant, Homebrew, SublimeText, Sass, HAML, Twitter Bootstrap, Responsive Design, Git, Bash, Heroku, HTML, CSS, JavaScript, jQuery, Facebook Authentication, Amazon S3 (Had prior experience with several subjects through Codecademy and Code School).
-- Completed projects in the portfolio section under "Rails."
+- **Skills learned**: Ruby, Ruby on Rails, RSpec, Vagrant, Homebrew, SublimeText, Sass, HAML, Twitter Bootstrap, Responsive Design, Git, Bash, Heroku, HTML, CSS, JavaScript, jQuery, Chrome DevTools, Facebook Authentication, Amazon S3 (Had prior experience with several subjects through *Codecademy* and *Code School*).
+- Completed projects titled "SoundtrackShare.io" and "Redditability" in the portfolio section under "Rails."
 
 ### Rice University via Coursera.org,  Interactive Programming in Python, *Student*
 Online, 4/2013 – 7/2013     
@@ -54,6 +54,8 @@ B.A. Classics and Video Production
 
 # PORTFOLIO
 
+**See GitHub for all projects and code** 
+
 ### Rails:  
 
 [SoundtrackShare.io](http://www.soundtrackshare.io)
@@ -62,9 +64,15 @@ B.A. Classics and Video Production
 
 [Rails Storefront](http://ror4storefront.herokuapp.com)
 
+###Jekyll:
+
+[My Brother is Wrong (A project for my sibling rivalry)](http://mpron.github.io/mybrotheriswrong/)
+
 ### Python:  
 
 [RPSLS][1], [Guess the number][2], [Stopwatch][3], [Pong][4], [Memory][5], [Blackjack][6], [Asteroids][7]
+
+*(not on GitHub)*
 
   [1]: http://www.codeskulptor.org/#user10_vyJWLa6JWm_2.py
   [2]: http://www.codeskulptor.org/#user11_glIedd6pfq_35.py
@@ -74,8 +82,15 @@ B.A. Classics and Video Production
   [6]: http://www.codeskulptor.org/#user15_UJHfmN9dCz_16.py
   [7]: http://www.codeskulptor.org/#user16_kxUyG6o0Iz_18.py
 
+###UX 
+
+High Fidelity Prototype made w/ WebFlow
+([Human-Computer Interaction](https://class.coursera.org/hciucsd-005) class project)
+[Dose.io](http://doseio.webflow.com/)
+
 ### Writing Samples
 
+- [Numerous pieces of Research Guides (Many ghost-written)](http://www.dzone.com/page/research)
 - [Dev Tech That Will be HOT in 2014](http://java.dzone.com/articles/dev-tech-will-be-hot-2014)
 - [We Need a Programmer for President](http://architects.dzone.com/articles/would-you-vote-programmer)
 - [Setting Up This Blog](http://mpron.github.io/first-post/)
