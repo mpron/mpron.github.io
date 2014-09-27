@@ -50,8 +50,6 @@ B.A. Classics and Video Production
 - Cumulative GPA: 3.6/4.0, Major GPA: 3.8/4.0 
 - Member of the Marching Tar Heels Band, Student Television, and The Daily Tar Heel Newspaper
 
-*Currently enrolled in the University of California at San Diego's Human-Computer Interaction course*
-
 # PORTFOLIO
 
 **See GitHub for all projects and code** 
