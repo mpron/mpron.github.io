@@ -52,7 +52,7 @@ B.A. Classics and Video Production
 
 # PORTFOLIO
 
-**See GitHub for all projects and code** 
+*See [GitHub](https://github.com/mpron?tab=repositories) for all projects and code**
 
 ### Rails:  
 
@@ -68,9 +68,9 @@ B.A. Classics and Video Production
 
 ### Python:  
 
+*(not on GitHub)*
 [RPSLS][1], [Guess the number][2], [Stopwatch][3], [Pong][4], [Memory][5], [Blackjack][6], [Asteroids][7]
 
-*(not on GitHub)*
 
   [1]: http://www.codeskulptor.org/#user10_vyJWLa6JWm_2.py
   [2]: http://www.codeskulptor.org/#user11_glIedd6pfq_35.py
