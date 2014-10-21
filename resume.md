@@ -33,12 +33,13 @@ Online, 4/2013 – 7/2013
 Cary, NC, 10/2009 – Present
 
 - Conducted research and produced the majority of content for DZone’s research guides. Now the largest revenue generator.
-- Generated and managed sponsored content portals in Drupal that comprised the largest piece of revenue for the company at the time.
-- Contacted and persuaded over 300 technology writers to join a blog republishing program that provided the bulk of content for DZone portals.
+- Generated and managed Drupal-based sponsored content portals, the largest piece of revenue for the company at the time.
+- Contacted and persuaded over 300 technology writers to join a blog republishing program that increased content exponentially.
 - Interviewed, hired and trained content managers to understand the software development space.
 - Editorial liaison for sales and DZone customers.
 - Oversaw departmental doubling of unique visitors in one year.
-- Posted thousands of self-authored entries generating millions of page views over the course of my career.
+- Authored thousands of articles generating millions of page views over the course of my career.
+
 
 
 # EDUCATION
