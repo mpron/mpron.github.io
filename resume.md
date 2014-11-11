@@ -11,7 +11,7 @@ Email: mpronschinske [at] gmail [dot] com
 
 # SUMMARY
 
-I've been geeking out on developer technologies since before I even knew how to code.    Over the past four years I've been immersed in the developer content space and now, with two development courses under my belt, I'm eager to begin coding full time.  
+Over the past five years I've been immersed in the developer content space and now, I'm also a web developer with a foundation in Ruby on Rails.  
 
 # SKILLS / EXPERIENCE
 
@@ -84,7 +84,7 @@ B.A. Classics and Video Production
 ###UX 
 
 High Fidelity Prototype made w/ WebFlow
-([Human-Computer Interaction](https://class.coursera.org/hciucsd-005) class project)
+([Human-Computer Interaction](https://class.coursera.org/hciucsd-005) class project, Summer 2014)
 [Dose.io](http://doseio.webflow.com/)
 
 ### Writing Samples
