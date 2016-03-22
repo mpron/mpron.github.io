@@ -18,7 +18,7 @@ But it wasn't clearly the next item on my list of project ideas until I stumbled
 
 So here's how the setup process went for me as I tried to build this new blog.
 
-#Jekyll Windows Setup and Theme Cloning
+# Jekyll Windows Setup and Theme Cloning
 
 _Pause for a **TL;DR** section_ – Here are all the links to articles and docs that I used throughout the process:
 
@@ -115,7 +115,7 @@ The first thing you'll want to do, if you're not already familiar with Jekyll's 
 
 Once you've done that, you can look back at our HPSTR themed blog files and start making some modifications.
 
-#### Modding Tips
+#### Modding Tips ####
 
 Read through Michael Rose's [HPSTR Theme Setup Tutorial](http://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/) and all of his other posts on the theme demo to find out about some of the simple modifications you can make.  Some of his sections, like the one about using [Grunt](http://gruntjs.com/), and any major customizations will require your own independent research.
 
@@ -136,7 +136,7 @@ Next, go to the `about.md` file, which isn't in any folder, and modify that to b
 
 Then open up the `index.html` file, which is also not in any folder.  This is going to modify your home page, so make sure you personalize it with your own images and info in the header content.
 
-#### Images
+#### Images ####
 
 In order to use an image on a page, you just have to go find one, modify it to your liking, drop it in the `images` folder in your Jekyll project, and then paste the name of the file in the header content of the page where you want to use it, just like the default images.
 
@@ -152,7 +152,7 @@ There are many ways you could deploy this blog, but the easiest by far is to use
 
 Before you start your first deployment, **make sure you create your user page repo on GitHub and add the user page's URL to the `url:` field in your `_config.yml` file**.  I'll show you what I mean
 
-#### Making Your GitHub User Page Repo and Deploying to it
+#### Making Your GitHub User Page Repo and Deploying to it ####
 
 This part is super simple, but you have to create this repo on the GitHub site before you deploy your Jekyll project to it.  This is why you don't really want to fork (make a copy) of Michael Rose's repo, because then it will already be linked to deploy your project to that for, not the new GitHub User Page repo that we want it to go to.
 

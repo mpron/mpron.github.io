@@ -49,7 +49,7 @@ My first foray into this resource is going to be a soft topic: remote work.  Spe
 
 *Addendum* – Aaron Boodman's [setup description](http://aaron.boodman.usesthis.com/) on usethis.com has a few Unix-y tools that are popular in the developer community as well.  Usethis.com is a great site btw.
 
-### Pair Programming
+### Pair Programming ###
 Pair programming is another big topic on its own, but it's an especially useful tactic in remote teams. Here is just one fun article that groups various pair programming styles into different *personas*.
 
 [**Practical Styles of Pair Programming**](http://blog.xebia.com/2010/05/09/practical-styles-of-pair-programming/) (2010).

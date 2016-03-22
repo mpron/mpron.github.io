@@ -17,7 +17,7 @@ That's why, a few weeks ago I emailed some blogging developers that I'd been tal
 
 After reading them, I think you'll agree that they would be effective in helping guide and inspire any person who's looking at the software engineering field for their career.
 
-###Arian Celina, Software Architect
+### Arian Celina, Software Architect ###
 [arian-celina.com](arian-celina.com)
 
 I started to feel an interest for programming in my early teenage years, but at the beginning, it looked a bit cryptic to me. When I was 16, I decided to give it a try. At that time I tried to learn C/C++, but apparently that didn't come easily to me and I didn’t grasp the essence of it. After two years I decided to give it a second try, and started my bachelor studies in computer science and continued the studies to a master’s degree as well. Ever since, programming has been the love of my life. 
@@ -32,7 +32,7 @@ The second biggest factor that helped me a lot is experience. Programming is all
 
 Basically, to evolve as a software developer, you have to teach yourself how to learn and how to challenge yourself continuously with different approaches to software development. I see software development as a form of art, and you have to write and read a lot of code before you start to generate your own insights.
 
-###Robert MacLean, Senior Developer
+### Robert MacLean, Senior Developer ###
 [www.sadev.co.za](http://www.sadev.co.za/)
 
 When I was 14 I got my first computer. It was a second hand 286, and all I wanted to do was play games on it. Unfortunately, I didn't have many games, which meant that in boredom I started to look at all the commands on the machine (it was DOS 5, and came with a great manual). I learned a lot about how computers work and how to break them. I found GW-Basic on it and it had a sample game, which I played and then started to edit. I didn't think of myself as a programmer yet, more of a fiddler. I mentioned this to an older friend who introduced me to Pascal and from there I started to write programs.
@@ -43,7 +43,7 @@ My first job was in support for a web hosting company, so if your server or webs
 
 Eventually I met some people who encouraged me to build my own startup. When things first began, I was basically doing all of the jobs (software dev, support, networks, etc...). That was a great experience where I learned so much about tech businesses. However, the startup failed and I found myself working as a junior developer for a Microsoft Partner doing CRM work, something I'd never heard of before. I worked hard there and eventually was put in charge of the development team. Since the start of my work at Microsoft, I have done some other jobs, all of which emerged from networking and having those people ask me to work with them - which has been very humbling and exciting. Today I am a senior developer at Microsoft working on making sure Africa has amazing apps and that the talent pool of developers in Africa is increased. 
 
-###David Dossot, Director of Architecture
+### David Dossot, Director of Architecture ###
 [MuleSoft](http://blogs.mulesoft.org/author/david-dossot/)
 
 My journey is littered with paper. Let me explain.

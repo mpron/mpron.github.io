@@ -16,10 +16,10 @@ Ever since I got an ice cream maker as a company bonus last Christmas, I've been
 
 Among all of the crazy recipies I've tried, including sweet potato, horchata, and sriracha, I think my most successful was beer flavored ice cream.  So I'd like to share my own take on this wonderful recipe which I modified from two existing recipes.  To be more specific, this is VANILLA PORTER ICE CREAM.
 
-###Choosing the beer:
+### Choosing the beer: ###
 The only rule is that is has to be malty, not hoppy because hops get bitter when cooked, and you will be reducing this a bit.
 
-#Ingredients
+# Ingredients
 
 - One 12oz bottle of malty beer, your choice (I used Vanilla Porter)
 - A bit of vanilla extract (I just used a dribble because my porter was already vanilla-flavored, you can use a little more than a dribble if your beer is not sweet. The recipe has been used for a lot of different beers but the vanilla was never a bad decision, says the author.)
@@ -29,14 +29,14 @@ The only rule is that is has to be malty, not hoppy because hops get bitter when
 - 2 Cups of Heavy Cream or Whipping Cream
 
 
-###Tools you might not have, but need for this:
+### Tools you might not have, but need for this: ###
 - Hand held strainer
 - Thermometer
 - Rubber spatula
 - An ice cream maker
 
 
-#Directions:
+# Directions:
 
  1. Reduce half of the beer by half. You've got a 12oz bottle, so pour 6oz in a skillet, and let it simmer on medium heat until you've got about 3oz. Then return the 3oz of reduced beer to the 6oz that you didn't reduce and add in whatever amount of vanilla extract you choose. Set this aside
 

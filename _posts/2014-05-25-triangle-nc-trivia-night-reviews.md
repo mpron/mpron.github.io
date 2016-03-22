@@ -175,18 +175,12 @@ Starts at 8pm on **Thursdays**
    could only hear in one side of the restaurant.
 
 # Natty Greene's Pub
-
-505 W Jones St.
-
-Raleigh, NC 27603
-
-Phone number (919) 232-2477
-
-Starts at 7:30pm **Tuesdays**
+### UPDATE: ###
+Natty Greene's Pub is no more! But the same trivia group and host can be found at Stag's Head on Glenwood South
 
 **Host:** 
 
- - Great host from [Geeks Who Drink](http://www.geekswhodrink.com/526/), a nationwide trivia group.
+ - Alex, a great host from [Geeks Who Drink](http://www.geekswhodrink.com/526/), a nationwide trivia group.
 
  - The host did a good job of running things and had some jokes to boot.
 
