@@ -18,4 +18,4 @@ I am a senior managing editor for the software development beat at TechBeacon. I
 
 * [**LinkedIn**](http://www.linkedin.com/in/mpron/)
 * [**Facebook**](https://www.facebook.com/mpronschinske)
-* [**Twitter**](https://twitter.com/mpron)x
+* [**Twitter**](https://twitter.com/mpron)
