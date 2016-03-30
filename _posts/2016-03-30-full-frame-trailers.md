@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A List of Full Frame Docs w/ Trailers
-description: "."
+description: "I made a list of all the films showing at the Full Frame Documentary Fesvial with descriptions pasted from the site, but I added trailers for all of them to help you decide which ones you might want to see."
 modified: 
 tags: [film]
 image:
