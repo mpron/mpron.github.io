@@ -59,7 +59,7 @@ This understated portrait of one of today’s greatest jazz pianists illuminates
 
 **Battles**       
 Isabelle Tollenaere
-[]https://www.youtube.com/watch?v=acHXvDu-Elw ](https://www.youtube.com/watch?v=acHXvDu-Elw )
+[https://www.youtube.com/watch?v=acHXvDu-Elw ](https://www.youtube.com/watch?v=acHXvDu-Elw )
 An essay in four chapters, this mysterious exploration of the footprints of war reveals European landscapes in which military past and peaceful present converge. (Experimental)
 *US Premiere*
 
