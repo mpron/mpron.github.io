@@ -3,7 +3,7 @@ layout: post
 title: A List of Full Frame Docs w/ Trailers
 description: "I made a list of all the films showing at the Full Frame Documentary Fesvial with descriptions pasted from the site, but I added trailers for all of them to help you decide which ones you might want to see."
 modified: 
-tags: [film]
+tags: [Film]
 image:
   feature: cameras.jpg
   credit:  
@@ -59,7 +59,7 @@ This understated portrait of one of today’s greatest jazz pianists illuminates
 
 **Battles**       
 Isabelle Tollenaere
-https://www.youtube.com/watch?v=acHXvDu-Elw 
+[]https://www.youtube.com/watch?v=acHXvDu-Elw ](https://www.youtube.com/watch?v=acHXvDu-Elw )
 An essay in four chapters, this mysterious exploration of the footprints of war reveals European landscapes in which military past and peaceful present converge. (Experimental)
 *US Premiere*
 
@@ -149,7 +149,7 @@ Daniel Koehler 
 In Botswana, two young men must wrestle with the choice between honoring ancestral traditions or following modern possibilities. (Ethnography)
 *World Premiere*  (Short)
 
-***I, Destini**       
+** *I, Destini**       
 Nicholas Pilarski, Destini Riley
 [https://vimeo.com/133660147](https://vimeo.com/133660147) 
 This animated short takes us inside the experiences of a young woman as she confronts the wrenching impact incarceration has had on her family. (Psychological, Biographical)
