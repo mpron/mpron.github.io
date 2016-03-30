@@ -149,11 +149,11 @@ Daniel Koehler 
 In Botswana, two young men must wrestle with the choice between honoring ancestral traditions or following modern possibilities. (Ethnography)
 *World Premiere*  (Short)
 
-** *I, Destini**       
+***I, Destini**       
 Nicholas Pilarski, Destini Riley
 [https://vimeo.com/133660147](https://vimeo.com/133660147) 
 This animated short takes us inside the experiences of a young woman as she confronts the wrenching impact incarceration has had on her family. (Psychological, Biographical)
-*World Premiere*  (Short)
+World Premiere  (Short)
 
 **In Pursuit of Silence**       
 Patrick Shen
@@ -228,7 +228,7 @@ S. Leo Chiang, Johnny Symons
  Follow transgender pioneer Bemz Benedito and Ladlad, the only LGBT political party in the world, on the campaign trail as they seek Congressional seats in the Philippines. (LGBT)
  *World Premiere*
 
-***The Peacemaker**       
+**The Peacemaker**       
 James Demo
 [http://documentaries.org/cid-films/the-peacemaker/](http://documentaries.org/cid-films/the-peacemaker/) 
 Padraig O’Malley has dedicated his life to negotiating agreements between leaders of war-torn regions across the world. The Peacemaker follows him through years of this important work, revealing its deep ties to his personal life. (Biographical)
@@ -243,7 +243,7 @@ At once hilarious and heartfelt, Pickle chronicles a series of pets with bizarre
 Mike Plunkett
 [https://vimeo.com/146051605](https://vimeo.com/146051605)
  The discovery of vast lithium reserves beneath Bolivia’s dazzling Salar de Uyuni, the world’s largest salt flat, threatens to challenge salt-gatherer Moises’s traditional way of life. (Ethnography)
-*North American Premiere*
+North American Premiere
 
 **Sonita**       
 Rokhsareh Ghaem Maghami
@@ -358,7 +358,7 @@ Video blogger and aspiring singer Samantha Montgomery is unaware she has a follo
 Margaret Byrne
 [https://vimeo.com/92845352](https://vimeo.com/92845352) 
 In this longitudinal portrait of coming of age, three young men in rural Bertie County, North Carolina, persevere against poverty, discrimination, and unemployment. (Biographical, Ethnography)
-*World Premiere*
+World Premiere
 
 **Rebel Citizen**       
 Pamela Yates
@@ -378,7 +378,7 @@ A riveting behind-the-scenes look at the well-known business strategist’s once
 Sam Pollard
 [https://vimeo.com/121266222](https://vimeo.com/121266222) 
 Featuring artful animation and performances by Gary Clark Jr. and Lucinda Williams, this story of the search for two forgotten blues singers takes us to Mississippi during the height of the civil rights movement. (Historical)
-*World Premiere*
+World Premiere
 
 **Unlocking the Cage**       
 Chris Hegedus, DA Pennebaker
