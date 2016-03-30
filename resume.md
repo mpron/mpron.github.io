@@ -9,65 +9,31 @@ share: true
 # Mitchell Pronschinske 
 Email: mpronschinske [at] gmail [dot] com
 
-# SUMMARY
+# LINKEDIN
 
-Over the past five years I've been immersed in the developer content space and now, I'm also a web developer with a foundation in Ruby on Rails.  
-
-# SKILLS / EXPERIENCE
-
-### [Bloc, _Student_](https://www.bloc.io/users/mitch-pronschinske)
-Online, 9/2013 – 12/2013
-
-- A three-month online bootcamp to learn Ruby on Rails full-stack web development.
-- **Skills learned**: Ruby, Ruby on Rails, RSpec, Vagrant, Homebrew, SublimeText, Sass, HAML, Twitter Bootstrap, Responsive Design, Git, Bash, Heroku, HTML, CSS, JavaScript, jQuery, Chrome DevTools, Facebook Authentication, Amazon S3 (Had prior experience with several subjects through *Codecademy* and *Code School*).
-- Completed projects titled "SoundtrackShare.io" and "Redditability" in the portfolio section under "Rails."
-
-### Rice University via Coursera.org,  Interactive Programming in Python, *Student*
-Online, 4/2013 – 7/2013     
-
-- A three-month online course in Python game development from Rice University on Coursera.
-- **Skills learned**: Python, General programming data types and techniques, GUI development.
-- Completed projects in the portfolio section under "Python."
-
-### DZone, Inc., *Lead Analyst, Senior Editor*
-Cary, NC, 10/2009 – Present
-
-- Conducted research and produced the majority of content for DZone’s research guides. Now the largest revenue generator.
-- Generated and managed Drupal-based sponsored content portals, the largest piece of revenue for the company at the time.
-- Contacted and persuaded over 300 technology writers to join a blog republishing program that increased content exponentially.
-- Interviewed, hired and trained content managers to understand the software development space.
-- Editorial liaison for sales and DZone customers.
-- Oversaw departmental doubling of unique visitors in one year.
-- Authored thousands of articles generating millions of page views over the course of my career.
-
-
-
-# EDUCATION
-
-### University of North Carolina
-Chapel Hill, NC, 8/2005 - 12/2008
-B.A. Classics and Video Production 
-
-- Cumulative GPA: 3.6/4.0, Major GPA: 3.8/4.0 
-- Member of the Marching Tar Heels Band, Student Television, and The Daily Tar Heel Newspaper
+[Mitchell Pronschinske, Developer Content Specialist, Developer Advocate, Developer Evangelist, Developer Research, Technical Publications](https://www.linkedin.com/in/mpron)
 
 # PORTFOLIO
 
+### Writing Samples ###
+
+Visit my [Contently page](https://mitchpronschinske.contently.com/)
+
 *See [GitHub](https://github.com/mpron?tab=repositories) for all projects and code**
 
-### Rails:  
+### Rails: ###
 
-[SoundtrackShare.io](http://www.soundtrackshare.io)
+[SoundtrackShare.io](soundtrackshare.herokuapp.com)
 
 [Redditability](http://redditability.herokuapp.com)
 
 [Rails Storefront](http://ror4storefront.herokuapp.com)
 
-###Jekyll:
+### Jekyll: ###
 
 [My Brother is Wrong (A project for my sibling rivalry)](http://mpron.github.io/mybrotheriswrong/)
 
-### Python:  
+### Python: ###
 
 *(not on GitHub)*
 [RPSLS][1], [Guess the number][2], [Stopwatch][3], [Pong][4], [Memory][5], [Blackjack][6], [Asteroids][7]
@@ -81,17 +47,8 @@ B.A. Classics and Video Production
   [6]: http://www.codeskulptor.org/#user15_UJHfmN9dCz_16.py
   [7]: http://www.codeskulptor.org/#user16_kxUyG6o0Iz_18.py
 
-###UX 
+### UX ###
 
 High Fidelity Prototype made w/ WebFlow
 ([Human-Computer Interaction](https://class.coursera.org/hciucsd-005) class project, Summer 2014)
 [Dose.io](http://doseio.webflow.com/)
-
-### Writing Samples
-
-- [Numerous pieces of Research Guides (Many ghost-written)](http://www.dzone.com/page/research)
-- [Dev Tech That Will be HOT in 2014](http://java.dzone.com/articles/dev-tech-will-be-hot-2014)
-- [We Need a Programmer for President](http://architects.dzone.com/articles/would-you-vote-programmer)
-- [Setting Up This Blog](http://mpron.github.io/first-post/)
-- [DigitalOcean Growth Rate is Higher than AWS](http://css.dzone.com/articles/digitalocean-growth-rate)
-- [Java EE Testing 'Gets Real'](http://java.dzone.com/articles/java-ee-testing-gets-real)

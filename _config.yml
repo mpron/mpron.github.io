@@ -23,7 +23,7 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   https://plus.google.com/110479971096226902843/about
+  google_plus:   
 
 # Background image to be tiled on all pages
 background: witewall_3.png
@@ -37,8 +37,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: SoundtrackShare.io
-    url: http://www.soundtrackshare.io
+  - title: TechBeacon Profile
+    url: http://techbeacon.com/contributors/mitch-pronschinske
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
