@@ -11,7 +11,7 @@ image:
 comments: true
 share: true
 ---
-I like documentaries. And if Jinx, Serial, and Making a Murderer are any indication, so do a lot of people. I've gone to just a handful of documentaries in the past two years at Durham, NC's Full Frame Documentary Film Festival. It's a good opportunity for locals to see some great (often timely) films while they make the festival circuit. For me, they usually provide a rare opportunity to learn something I didn't know before or be inspired.
+I like documentaries. And if Jinx, Serial, and Making a Murderer are any indication, so do a lot of people. I've gone to just a handful of documentaries in the past two years at Durham, NC's [Full Frame Documentary Film Festival](http://www.fullframefest.org/). It's a good opportunity for locals to see some great (often timely) films while they make the festival circuit. For me, they usually provide a rare opportunity to learn something I didn't know before or be inspired.
 
 While the web page gives a nice description of the many films (and there are a lot) there are often trailers online for these documentaries that I'd want to hunt down so I could get a real sense for the tone of the films and a feel for their stories. This year, I decided to just make a blog post and share all the trailers I could find for the films with everyone—in hopes that you go see as many as you can if you're in town (Just to be clear, I don't work for the Full Frame fest, I'm just a fan).
 
@@ -389,6 +389,8 @@ Having devoted his career to fighting for greater legal rights for nonhuman anim
 Josh Kriegman, Elyse Steinberg
 [http://www.traileraddict.com/weiner-2016/featurette-meet-the-artists](http://www.traileraddict.com/weiner-2016/featurette-meet-the-artists) 
 With unparalleled access to the candidate, Weiner follows disgraced congressman Anthony Weiner’s 2013 campaign for mayor of New York City and intensely navigates new political scandal as it unfolds. (Biographical, Historical)
+
+The Full Frame Festival runs from April 7-10. [Tickets go on sale April 1](http://www.fullframefest.org/passestickets/passes/).  
 
 
 
