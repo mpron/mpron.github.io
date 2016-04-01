@@ -20,7 +20,7 @@ So here's a copy-paste of the full frame documentary list with two additions to 
  - A link to a trailer or featurette (if available, some weren't) 
  - My own Ctrl+F searchable categories
 
-The category tags were made up off the top of my head and are by no means completely. They're just based on my own interpretation of the film's trailer and/or description. I made them because I thought they'd be helpful if you only like certain genres of documentary.  Since there are a lot, I thought I'd give you some filters to find what's relevant to you faster.  I also marked the ones I'm personally interested in with an asterisk in the front of the title, if you want to scan that way.
+The category tags were made up off the top of my head and are by no means definitive. They're just based on my own interpretation of the film's trailer and/or description. I made them because I thought they'd be helpful if you only like certain genres of documentary.  Since there are a lot, I thought I'd give you some filters to find what's relevant to you, faster.  I also marked the ones I'm personally interested in with an asterisk in the front of the title, if you want to scan that way.
 
 Anyway, try Ctrl+F searching for some of these categories and enjoy the trailers below.  Hope you go see some!
 
