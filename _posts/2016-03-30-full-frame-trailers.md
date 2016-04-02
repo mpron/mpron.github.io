@@ -178,7 +178,6 @@ Gina Abatemarco
 
 **La Laguna**       
 Aaron Schock
-[https://www.youtube.com/watch?v=8E3I30UD4Bg](https://www.youtube.com/watch?v=8E3I30UD4Bg) (no subtitles in the trailer)
  Amidst the rainforests of southern Mexico, a Mayan boy faces the impending loss of the freedom of his childhood as family pressures and economic realities close in. (Ethnography)
  *World Premiere*  (Short)
 
