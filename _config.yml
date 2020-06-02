@@ -9,7 +9,7 @@ url:              http://mpron.github.com
 # Owner/author information
 owner:
   name:           Mitch Pronschinske
-  avatar:         avatar.jpg
+  avatar:         Me-Profile-Picture.jpg
   #100 Characters Max for Bio
   bio:            "A longtime writer in the programming and ops world."
   email:          mpronschinske@gmail.com
@@ -26,7 +26,7 @@ owner:
   google_plus:   
 
 # Background image to be tiled on all pages
-background: witewall_3.png
+background: richat.jpg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-46256122-1
