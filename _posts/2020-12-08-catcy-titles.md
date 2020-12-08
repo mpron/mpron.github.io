@@ -26,4 +26,8 @@ Maybe this will help you clickbait your way to the front page of HackerNews or h
 
 Whatever your reasons for checking this out, I now present my definitive list of catchy title ideas for the world of programming. I’ll be using variables X and Y to denote a blank space in a title where any topic or adjective can go.
 
+<div class="tenor-gif-embed" data-postid="5235973" data-share-method="host" data-width="100%" data-aspect-ratio="2.402173913043478"><a href="https://tenor.com/view/sick-reference-jonah-hill-bro-this-is-the-end-awkward-gif-5235973">Sick Reference Jonah Hill GIF</a> from <a href="https://tenor.com/search/sickreference-gifs">Sickreference GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![Sick reference bro!](https://tenor.com/v8hl.gif)
+
 {the rest is on its way}
