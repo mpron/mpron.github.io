@@ -32,4 +32,6 @@ Whatever your reasons for checking this out, I now present my definitive list of
 
 <div class="tenor-gif-embed" data-postid="17021248" data-share-method="host" data-width="100%" data-aspect-ratio="1.6274509803921569"><a href="https://tenor.com/view/thats-bait-thats-clickbait-bait-clickbait-mad-max-gif-17021248">Thats Bait Thats Clickbait GIF</a> from <a href="https://tenor.com/search/thatsbait-gifs">Thatsbait GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+<div class="tenor-gif-embed" data-postid="4977339" data-share-method="host" data-width="100%" data-aspect-ratio="1.4285714285714286"><a href="https://tenor.com/view/paint-indeed-gif-4977339">Paint Indeed GIF</a> from <a href="https://tenor.com/search/paint-gifs">Paint GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 {the rest is on its way}
