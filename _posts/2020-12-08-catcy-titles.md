@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How to Clickbait a Developer or SRE - 105 Catchy Blog & Talk Title Ideas
+title: 105 Title Ideas for Developer & SRE Blogs and Conference Talks
 description: "Can't think of a title for that blog or talk you've been working on? Software and ops engineers need look no further..."
 modified: 
 tags: [Writing, Content Marketing]
 image:
-  feature: catchy.jpg
+  feature: catchy.png
 comments: true
 share: true
 ---
@@ -28,6 +28,6 @@ Whatever your reasons for checking this out, I now present my definitive list of
 
 <div class="tenor-gif-embed" data-postid="5235973" data-share-method="host" data-width="100%" data-aspect-ratio="2.402173913043478"><a href="https://tenor.com/view/sick-reference-jonah-hill-bro-this-is-the-end-awkward-gif-5235973">Sick Reference Jonah Hill GIF</a> from <a href="https://tenor.com/search/sickreference-gifs">Sickreference GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-![Sick reference bro!](https://tenor.com/v8hl.gif)
+<div class="tenor-gif-embed" data-postid="17055211" data-share-method="host" data-width="100%" data-aspect-ratio="1.4910179640718566"><a href="https://tenor.com/view/cooking-will-smith-fire-fresh-prince-gif-17055211">Cooking Will Smith GIF</a> from <a href="https://tenor.com/search/cooking-gifs">Cooking GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 {the rest is on its way}
