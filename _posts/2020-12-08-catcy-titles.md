@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Clickbait a Developer or SRE: 105 Catchy Blog & Talk Title Ideas
+title: How to Clickbait a Developer or SRE - 105 Catchy Blog & Talk Title Ideas
 description: "Can't think of a title for that blog or talk you've been working on? Software and ops engineers need look no further..."
 modified: 
 tags: [Writing, Content Marketing]
