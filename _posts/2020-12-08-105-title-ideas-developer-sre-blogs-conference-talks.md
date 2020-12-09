@@ -5,7 +5,8 @@ description: "Can't think of a title for that blog or talk you've been working o
 modified: 
 tags: [Writing, Content Marketing]
 image:
-  feature: catchy.png
+  feature: jaromir-kavan--unsplash.jpg
+  credit: Jaromir Kavan - Unsplash
 comments: true
 share: true
 ---
