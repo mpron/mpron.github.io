@@ -282,7 +282,7 @@ I don’t know where this weird phrase comes from, but it’s truly a thing. If 
 
 - [From Zero to WOW! with HashiCorp Nomad](https://www.hashicorp.com/resources/from-zero-to-wow-with-hashicorp-nomad)
 - [VueJS Tutorial: Zero to Sixty](https://www.youtube.com/watch?v=CTeFoa55ftQ)
-- [HashiCorp Vault: Zero to Hero]()
+- [HashiCorp Vault: Zero to Hero](https://www.hashicorp.com/resources/hashicorp-vault-zero-to-hero)
 
 ## Go Forth and Write Catchy Titles!
 
