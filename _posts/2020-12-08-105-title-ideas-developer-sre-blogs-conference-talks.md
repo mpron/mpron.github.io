@@ -278,6 +278,12 @@ Once you already know something but don’t want to have to remember every detai
 
 I don’t know where this weird phrase comes from, but it’s truly a thing. If you know, tell me in the comments. Does it have something to do with the syntax of functional programming?
 
+## Zero to X
+
+- [From Zero to WOW! with HashiCorp Nomad](https://www.hashicorp.com/resources/from-zero-to-wow-with-hashicorp-nomad)
+- [VueJS Tutorial: Zero to Sixty](https://www.youtube.com/watch?v=CTeFoa55ftQ)
+- [HashiCorp Vault: Zero to Hero]()
+
 ## Go Forth and Write Catchy Titles!
 
 Well I hope that wasn’t a _total_ waste of your time. Now, as conference seasons approach and you have some time to work on talk submissions or blog posts, this list can give you some ideas for the title of your content or maybe even inspire the topic you choose to cover.
