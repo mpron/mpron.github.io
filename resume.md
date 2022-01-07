@@ -6,9 +6,6 @@ tags: [Web Development]
 share: true
 ---
 
-# Mitchell Pronschinske 
-Email: mpronschinske [at] gmail [dot] com
-
 # LINKEDIN
 
 [Mitchell Pronschinske, Developer Content Specialist, Developer Advocate, Developer Evangelist, Developer Research, Technical Publications](https://www.linkedin.com/in/mpron)
